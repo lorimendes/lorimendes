@@ -24,7 +24,13 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Objetivo Atual
+## 🛠️ Conhecimentos
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![POO](https://img.shields.io/badge/POO-5C2D91?style=for-the-badge)
+
+## Objetivo atual
 
 Buscando oportunidade de estágio na área de tecnologia.
 
