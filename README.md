@@ -24,7 +24,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Conhecimentos
+## Conhecimentos
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
@@ -35,8 +35,8 @@
 Buscando oportunidade de estágio na área de tecnologia.
 
 ## Projetos
-* **Desenvolvimento Voluntário:** criação de website para ONG, aplicando conceitos de desenvolvimento web na prática.
-* **Classificação de imagens:** treinamento de modelo de Machine Learning utilizando dataset do Kaggle para estudos de visão computacional e análise de dados..
+* **Desenvolvimento voluntário:** criação de website para ONG, aplicando conceitos de desenvolvimento web na prática.
+* **Classificação de imagens:** treinamento de modelo de Machine Learning utilizando dataset do Kaggle para estudos de visão computacional e análise de dados.
 
 ## Fora do código
 🧩 Gosto de jogos que estimulam o raciocínio lógico e desafios, como Sudoku, Nonogramas e outros quebra-cabeças baseados em padrões e dedução.
