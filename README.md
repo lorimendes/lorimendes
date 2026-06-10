@@ -1,7 +1,8 @@
 # Olá, eu sou Lorena! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🌱 Atualmente aprofundando meus conhecimentos em Desenvolvimento Web Full Stack
+🌱 Atualmente aprofundando meus conhecimentos em Desenvolvimento Web Full Stack <br>
+📄[Currículo completo](https://drive.google.com/file/d/11tuO9pDyGz0phO9-xARTgQF55bW6rT-w/view)
 
 ## Tecnologias que utilizo e estudo
 
@@ -42,5 +43,5 @@ Buscando oportunidade de estágio na área de tecnologia.
 🧩 Gosto de jogos que estimulam o raciocínio lógico e desafios, como Sudoku, Nonogramas e outros quebra-cabeças baseados em padrões e dedução.
 
 ## **Como entrar em contato comigo:** 
-- LinkedIn: https://www.linkedin.com/in/lorenamendes0/
-- E-mail: lorinsantanna@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lorenamendes0/)
+- [E-mail](mailto:lorinsantanna@gmail.com)
