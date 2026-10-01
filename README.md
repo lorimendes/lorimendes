@@ -1,10 +1,20 @@
 # Olá, eu sou Lorena! 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🌱 Atualmente aprofundando meus conhecimentos em Desenvolvimento Web Full Stack <br>
-📄[Currículo completo](https://drive.google.com/file/d/11tuO9pDyGz0phO9-xARTgQF55bW6rT-w/view)
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Estagiária de Desenvolvimento Full Stack
+- Foco em Desenvolvimento Web, com interesse especial em Back-end
 
-## Tecnologias que utilizo e estudo
+Atualmente, atuo no desenvolvimento de sistemas web utilizando PHP, JavaScript e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
+
+Também estou aprofundando meus conhecimentos no ecossistema JavaScript/Node.js, desenvolvendo API REST e aplicações full stack com Node.js, Express, React, MongoDB e Mongoose.
+
+Tenho interesse em continuar evoluindo em desenvolvimento back-end, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
+
+📄[Currículo](https://drive.google.com/file/d/11tuO9pDyGz0phO9-xARTgQF55bW6rT-w/view) · 💼 [LinkedIn](https://www.linkedin.com/in/lorenamendes0/)
+
+---
+
+## Tecnologias
 
 ### Linguagens
 
@@ -12,13 +22,17 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Desenvolvimento Web
+### Back-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 
@@ -31,17 +45,71 @@
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![POO](https://img.shields.io/badge/POO-5C2D91?style=for-the-badge)
 
-## Objetivo atual
+**APIs REST · CRUD · Programação assíncrona · POO · Versionamento de código**
 
-Buscando oportunidade de estágio na área de tecnologia.
+---
 
-## Projetos
-* **Desenvolvimento voluntário:** criação de website para ONG, aplicando conceitos de desenvolvimento web na prática.
-* **Classificação de imagens:** treinamento de modelo de Machine Learning utilizando dataset do Kaggle para estudos de visão computacional e análise de dados.
+## 💼 Experiência
 
-## Fora do código
-🧩 Gosto de jogos que estimulam o raciocínio lógico e desafios, como Sudoku, Nonogramas e outros quebra-cabeças baseados em padrões e dedução.
+### Estágio em Desenvolvimento Full Stack — Mitikas Tecnologia
 
-## **Como entrar em contato comigo:** 
-- [LinkedIn](https://www.linkedin.com/in/lorenamendes0/)
-- [E-mail](mailto:lorinsantanna@gmail.com)
+Atuação no desenvolvimento de sistemas web utilizando **PHP, JavaScript e MySQL**, com participação no levantamento de necessidades, definição de soluções, implementação, validação e manutenção.
+
+Entre as principais atividades, destaco:
+- Desenvolvimento de funcionalidades **front-end e back-end**;
+- Criação de endpoints e implementação de regras de negócio;
+- Desenvolvimento de CRUDs e consultas SQL;
+- Implementação de interfaces, autenticação, permissões e validações.
+
+Um dos principais projetos desenvolvidos foi uma plataforma para **gestão de eventos corporativos**, contemplando o fluxo de criação de eventos, cadastro de vagas, candidaturas, seleção, contratação, pagamentos e avaliações.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📸 Around The U.S. — API REST
+**Node.js · Express.js · JavaScript**
+API REST desenvolvida para gerenciamento de usuários e conteúdo de uma aplicação social.
+- Autenticação;
+- Estruturação de rotas;
+- Endpoints para gerenciamento de recursos;
+- Busca por identificador;
+- Middlewares de tratamento de erros;
+- Manipulação de dados em JSON.
+
+🔗 [Ver repositório](https://github.com/lorimendes/web_project_around_express)
+
+---
+
+### 🌎 Around The U.S. — React
+**React · JavaScript · REST API · Context API**
+Aplicação frontend de uma rede social de compartilhamento de fotos.
+- Autenticação;
+- Gerenciamento de estado com React Hooks;
+- Context API;
+- Integração com API REST;
+- Formulários controlados;
+- Operações assíncronas;
+- Interface responsiva e componentes reutilizáveis.
+
+🔗 [Ver repositório](https://github.com/lorimendes/web_project_around_auth) · [Ver aplicação](https://lorimendes.github.io/web_project_around_auth/)
+
+---
+
+### 🎫 Sistema de controle de atendimentos
+**PHP · MySQL · HTML · CSS · PDO**
+Sistema para gerenciamento de chamados e monitoramento de **SLA**, com:
+- CRUD de setores, prioridades e chamados;
+- Controle de fluxo dos chamados;
+- Registro e cálculo de tempo de atendimento;
+
+🔗 [Ver repositório](https://github.com/lorimendes/controle_de_chamados)
+
+
+## 📚 Outros projetos
+
+### 🌱 Website institucional — Projeto voluntário
+Desenvolvimento de website para organização social utilizando **HTML, CSS, JavaScript, WordPress e Elementor**.
+
+### 🤖 Machine Learning — Classificação de imagens
+Projeto de estudos envolvendo treinamento de modelo de **Machine Learning** para classificação de imagens utilizando dataset do Kaggle.
