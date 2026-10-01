@@ -10,7 +10,7 @@ Também estou aprofundando meus conhecimentos no ecossistema JavaScript/Node.js,
 
 Tenho interesse em continuar evoluindo em desenvolvimento back-end, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
 
-📄[Currículo](https://drive.google.com/file/d/11tuO9pDyGz0phO9-xARTgQF55bW6rT-w/view) · 💼 [LinkedIn](https://www.linkedin.com/in/lorenamendes0/)
+📄[Currículo](https://drive.google.com/file/d/1zoBVY5tBBiv4KbMy5gHaUlv-ZvU6i4Es/view?usp=sharing) · 💼 [LinkedIn](https://www.linkedin.com/in/lorenamendes0/)
 
 ---
 
