@@ -3,11 +3,11 @@
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Estagiária de Desenvolvimento Full Stack
 
-Atualmente, atuo no desenvolvimento de sistemas web utilizando PHP, JavaScript e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
+Atualmente, atuo no desenvolvimento de sistemas web utilizando JavaScript, PHP e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
 
 Também estou aprofundando meus conhecimentos no ecossistema JavaScript/Node.js, desenvolvendo API REST e aplicações full stack com Node.js, Express, React, MongoDB e Mongoose.
 
-Tenho interesse em continuar evoluindo em desenvolvimento back-end, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
+Tenho interesse em continuar evoluindo em desenvolvimento full-stack, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
 
 📄[Currículo](https://drive.google.com/file/d/1zoBVY5tBBiv4KbMy5gHaUlv-ZvU6i4Es/view?usp=sharing) · 💼 [LinkedIn](https://www.linkedin.com/in/lorenamendes0/)
 
@@ -66,32 +66,31 @@ Um dos principais projetos desenvolvidos foi uma plataforma para **gestão de ev
 
 ## 🚀 Projetos em destaque
 
-### 📸 Around The U.S. — API REST
-**Node.js · Express.js · JavaScript**
-API REST desenvolvida para gerenciamento de usuários e conteúdo de uma aplicação social.
-- Autenticação;
+### 📸 Around The U.S. — Full-Stack
+**React.js · Node.js · Express.js · JavaScript**
+
+Aplicação desenvolvida para gerenciamento de usuários e conteúdo de uma rede social de compartilhamento de fotos.
+
+#### API REST
+- Autenticação e autorização;
 - Estruturação de rotas;
 - Endpoints para gerenciamento de recursos;
 - Busca por identificador;
 - Middlewares de tratamento de erros;
 - Manipulação de dados em JSON.
 
-🔗 [Ver repositório](https://github.com/lorimendes/web_project_around_express)
-
----
-
-### 🌎 Around The U.S. — React
-**React · JavaScript · REST API · Context API**
-Aplicação frontend de uma rede social de compartilhamento de fotos.
-- Autenticação;
+#### Frontend
 - Gerenciamento de estado com React Hooks;
-- Context API;
 - Integração com API REST;
 - Formulários controlados;
 - Operações assíncronas;
 - Interface responsiva e componentes reutilizáveis.
 
-🔗 [Ver repositório](https://github.com/lorimendes/web_project_around_auth) · [Ver aplicação](https://lorimendes.github.io/web_project_around_auth/)
+🔗 [Ver repositório](https://github.com/lorimendes/web_project_api_full) · [Ver aplicação](https://lorena.estradatech.com/)
+
+
+
+
 
 ---
 
