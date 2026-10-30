@@ -67,7 +67,7 @@ Um dos principais projetos desenvolvidos foi uma plataforma para **gestão de ev
 ## 🚀 Projetos em destaque
 
 ### 📸 Around The U.S. — Full-Stack
-**React.js · Node.js · Express.js · JavaScript**
+**React.js · Node.js · Express.js · MongoDB**
 
 Aplicação desenvolvida para gerenciamento de usuários e conteúdo de uma rede social de compartilhamento de fotos.
 
@@ -87,9 +87,6 @@ Aplicação desenvolvida para gerenciamento de usuários e conteúdo de uma rede
 - Interface responsiva e componentes reutilizáveis.
 
 🔗 [Ver repositório](https://github.com/lorimendes/web_project_api_full) · [Ver aplicação](https://lorena.estradatech.com/)
-
-
-
 
 
 ---
