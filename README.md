@@ -2,7 +2,6 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Estagiária de Desenvolvimento Full Stack
-- Foco em Desenvolvimento Web, com interesse especial em Back-end
 
 Atualmente, atuo no desenvolvimento de sistemas web utilizando PHP, JavaScript e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
 
