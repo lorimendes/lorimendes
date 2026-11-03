@@ -1,13 +1,13 @@
 # Olá, eu sou Lorena! 👋
 
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Estagiária de Desenvolvimento Full Stack
+- Estagiária de Desenvolvimento de software
 
 Atualmente, atuo no desenvolvimento de sistemas web utilizando JavaScript, PHP e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
 
 Também estou aprofundando meus conhecimentos no ecossistema JavaScript/Node.js, desenvolvendo API REST e aplicações full stack com Node.js, Express, React, MongoDB e Mongoose.
 
-Tenho interesse em continuar evoluindo em desenvolvimento full-stack, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
+Tenho interesse em continuar evoluindo em desenvolvimento backend, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
 
 📄[Currículo](https://drive.google.com/file/d/1zoBVY5tBBiv4KbMy5gHaUlv-ZvU6i4Es/view?usp=sharing) · 💼 [LinkedIn](www.linkedin.com/in/lorenans)
 
@@ -71,7 +71,7 @@ Um dos principais projetos desenvolvidos foi uma plataforma para **gestão de ev
 
 Aplicação desenvolvida para gerenciamento de usuários e conteúdo de uma rede social de compartilhamento de fotos.
 
-#### API REST
+#### Backend - API REST
 - Autenticação e autorização;
 - Estruturação de rotas;
 - Endpoints para gerenciamento de recursos;
