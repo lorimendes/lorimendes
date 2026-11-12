@@ -3,13 +3,13 @@
 - Estudante de Análise e Desenvolvimento de Sistemas
 - Estagiária de Desenvolvimento de software
 
-Atualmente, atuo no desenvolvimento de sistemas web utilizando JavaScript, PHP e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
+Atualmente, atuo no desenvolvimento de sistemas full-stack utilizando JavaScript, PHP e MySQL, participando de diferentes etapas do desenvolvimento, desde o entendimento das necessidades e regras de negócio até implementação, validação e correções.
 
-Também estou aprofundando meus conhecimentos no ecossistema JavaScript/Node.js, desenvolvendo API REST e aplicações full stack com Node.js, Express, React, MongoDB e Mongoose.
+Estou aprofundando meus conhecimentos no ecossistema JavaScript/Node.js, desenvolvendo API REST e aplicações full stack com Node.js, Express, React, MongoDB e Mongoose.
 
 Tenho interesse em continuar evoluindo em desenvolvimento backend, APIs, bancos de dados, arquitetura de aplicações e boas práticas de engenharia de software.
 
-📄[Currículo](https://drive.google.com/file/d/1zoBVY5tBBiv4KbMy5gHaUlv-ZvU6i4Es/view?usp=sharing) · 💼 [LinkedIn](www.linkedin.com/in/lorenans)
+📄[Currículo](https://drive.google.com/file/d/1NhEIH8RvJCokCLUj3fggSAdj9B9xZ0Jv/view?usp=sharing) · 💼 [LinkedIn](www.linkedin.com/in/lorenans)
 
 ---
 
@@ -66,40 +66,28 @@ Um dos principais projetos desenvolvidos foi uma plataforma para **gestão de ev
 
 ## 🚀 Projetos em destaque
 
-### 📸 Around The U.S. — Full-Stack
+### Só Mais um Livro — Full-Stack
+**React.js · Node.js · Express.js · JavaScript · MongoDB · Mongoose · API REST**
+
+Aplicação full-Stack para busca de livros e gerenciamento de bibliotecas pessoais, permitindo aos usuários pesquisar obras e organizar suas listas de leitura.
+
+- **Backend — API REST:** desenvolvimento de endpoints para autenticação e gerenciamento de livros (CRUD), proteção de rotas com JWT, criptografia de senhas com Bcrypt, validação de dados com Joi/Celebrate, middlewares centralizados de tratamento de erros e registro de logs.
+- **Frontend:** desenvolvimento de SPA com React, gerenciamento de estado com Hooks nativos e Custom Hooks, integração com API REST própria e Google Books API, formulários controlados com validação, rotas protegidas e interface responsiva.
+- **Deploy e infraestrutura:** aplicação hospedada em máquina virtual Ubuntu no Google Cloud, com Nginx, PM2 e configuração HTTPS via Certbot.
+
+---
+
+### Around The U.S. — Full-Stack
 **React.js · Node.js · Express.js · MongoDB**
 
 Aplicação desenvolvida para gerenciamento de usuários e conteúdo de uma rede social de compartilhamento de fotos.
 
-#### Backend - API REST
-- Autenticação e autorização;
-- Estruturação de rotas;
-- Endpoints para gerenciamento de recursos;
-- Busca por identificador;
-- Middlewares de tratamento de erros;
-- Manipulação de dados em JSON.
-
-#### Frontend
-- Gerenciamento de estado com React Hooks;
-- Integração com API REST;
-- Formulários controlados;
-- Operações assíncronas;
-- Interface responsiva e componentes reutilizáveis.
+- **Backend API REST:** autenticação e autorização, estruturação de rotas, endpoints para gerenciamento de recursos, middlewares de tratamento de erros, manipulação de dados em JSON.
+- **Frontend:** gerenciamento de estado com React Hooks, integração com API REST, formulários controlados com validação instantânea, operações assíncronas, interface responsiva e componentes reutilizáveis.
 
 🔗 [Ver repositório](https://github.com/lorimendes/web_project_api_full) · [Ver aplicação](https://lorena.estradatech.com/)
 
-
 ---
-
-### 🎫 Sistema de controle de atendimentos
-**PHP · MySQL · HTML · CSS · PDO**
-Sistema para gerenciamento de chamados e monitoramento de **SLA**, com:
-- CRUD de setores, prioridades e chamados;
-- Controle de fluxo dos chamados;
-- Registro e cálculo de tempo de atendimento;
-
-🔗 [Ver repositório](https://github.com/lorimendes/controle_de_chamados)
-
 
 ## 📚 Outros projetos
 
